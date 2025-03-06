@@ -27,9 +27,9 @@
 
 ## 1. 개발환경
 
-- Front End : Kotlin, Android Studio
+- Front-End : Kotlin, Android Studio
 
-- Back End : Java17, Spring boot, Spring Data JPA, Spring Security
+- Back-End : Java17, Spring boot, Spring Data JPA, Spring Security
 
 - Infra : Amazon EC2, Docker, Jenkins, Nginx
 
