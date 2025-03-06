@@ -2,7 +2,7 @@
 
 2025.01.06 ~ 2025.02.21 / 6명
 
-메인사진 피피티가 없어요ㅠ
+메인사진 넣어야 하는데 피피티가 없어요ㅠ
 
 ## 프로젝트 소개
 
@@ -18,7 +18,7 @@
 
 ## 팀원 구성
 
-| ![Image](https://github.com/user-attachments/assets/5f77d7ae-e010-4a47-9480-d6484af35d53) | ![Image](https://github.com/user-attachments/assets/f9cdc7f1-1ba5-40df-960a-ff344da2fddb) | ![Image](https://github.com/user-attachments/assets/d6f6a979-7125-4b29-8ba1-06c7ec13c7a4) | ![Image](https://github.com/user-attachments/assets/73daf29c-815f-4935-ac6c-acbe89fcb72d) | ![Image](https://github.com/user-attachments/assets/3a316fff-b912-461a-b8a6-dea2d16044f4) | ![Image](https://github.com/user-attachments/assets/5f77d7ae-e010-4a47-9480-d6484af35d53) |
+| ![Image](https://github.com/user-attachments/assets/73daf29c-815f-4935-ac6c-acbe89fcb72d) | ![Image](https://github.com/user-attachments/assets/f9cdc7f1-1ba5-40df-960a-ff344da2fddb) | ![Image](https://github.com/user-attachments/assets/d6f6a979-7125-4b29-8ba1-06c7ec13c7a4) | ![Image](https://github.com/user-attachments/assets/73daf29c-815f-4935-ac6c-acbe89fcb72d) | ![Image](https://github.com/user-attachments/assets/3a316fff-b912-461a-b8a6-dea2d16044f4) | ![Image](https://github.com/user-attachments/assets/d6f6a979-7125-4b29-8ba1-06c7ec13c7a4) |
 | ----------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------- |
 | 김기훈([@kimgihun1234](https://github.com/kimgihun1234))                                     | 차현우([@sangmin0806](https://github.com/sangmin0806))                                       | 조성윤([@SeongyunGit](https://github.com/SeongyunGit))                                       | 서현석([@minseonkkim](https://github.com/minseonkkim))                                       | 김성수([@Dufrane-S](https://github.com/Dufrane-S))                                           | 경이현([@KyungYiHyun](https://github.com/KyungYiHyun))                                       |
 | 팀장 / Back End                                                                             | Front End                                                                                 | Front End                                                                                 | Front End                                                                                 | Back End                                                                                  | Front End                                                                                 |
@@ -178,8 +178,6 @@ C:.
 
 역할 분담 사진 피피티가 없어요ㅠ
 
-
-
 ## 4. 핵심 기능 소개
 
 #### [메인페이지]
@@ -202,12 +200,8 @@ C:.
 
 ![Image](https://github.com/user-attachments/assets/2dc4a7c2-3b24-48d4-9f38-9c56b286cfe9)
 
-
-
 ## 5. 시스템 아키텍쳐
 
 ![Image](https://github.com/user-attachments/assets/23ae6ef7-89a1-44f2-8abe-28af51c9fe89)
-
-
 
 ## 6. 프로젝트 후기
