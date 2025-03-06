@@ -182,7 +182,7 @@ C:.
 
 #### [메인페이지]
 
-![Image](https://github.com/user-attachments/assets/74314c36-bac3-44cf-b6b8-9529c05cee61)
+<img src = "https://github.com/user-attachments/assets/74314c36-bac3-44cf-b6b8-9529c05cee61" width="400" height="711" >
 
 #### [그룹 생성]
 
@@ -190,16 +190,15 @@ C:.
 
 #### [공개 그룹 조회]
 
-![Image](https://github.com/user-attachments/assets/e4e12709-5185-40f9-9a40-1bb25b113abb)
+<img src = "https://github.com/user-attachments/assets/e4e12709-5185-40f9-9a40-1bb25b113abb" width="400" height="711" >
 
 #### [QR 결제]
 
-![Image](https://github.com/user-attachments/assets/2aefd194-b5ac-44b3-84ba-5aa566f277ad)
+<img src = "https://github.com/user-attachments/assets/2aefd194-b5ac-44b3-84ba-5aa566f277ad" width="400" height="711" >
 
 #### [결제 내역 조회]
 
-![Image](https://github.com/user-attachments/assets/2dc4a7c2-3b24-48d4-9f38-9c56b286cfe9)
-
+<img src = "https://github.com/user-attachments/assets/2dc4a7c2-3b24-48d4-9f38-9c56b286cfe9" width="400" height="711" >
 ## 5. 시스템 아키텍쳐
 
 ![Image](https://github.com/user-attachments/assets/23ae6ef7-89a1-44f2-8abe-28af51c9fe89)
