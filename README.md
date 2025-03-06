@@ -185,7 +185,7 @@ C:.
 ![Image](https://github.com/user-attachments/assets/74314c36-bac3-44cf-b6b8-9529c05cee61)
 
 #### [그룹 생성]
-
+<img src = "https://github.com/user-attachments/assets/c376c359-81b2-4786-a6af-a725605ea5c9" width = "400" height=>
 ![Image](https://github.com/user-attachments/assets/c376c359-81b2-4786-a6af-a725605ea5c9)
 
 #### [공개 그룹 조회]
