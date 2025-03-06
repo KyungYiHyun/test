@@ -18,10 +18,11 @@
 
 ## 팀원 구성
 
-| ![Image](https://github.com/user-attachments/assets/73daf29c-815f-4935-ac6c-acbe89fcb72d) | ![Image](https://github.com/user-attachments/assets/bc37fd2b-8cb3-483e-9703-87cec7865664) | ![Image](https://github.com/user-attachments/assets/009ca227-ce71-4300-87b8-b6c30b970caf) | ![Image](https://github.com/user-attachments/assets/650fc990-bdd2-4d72-b55e-8fb85ef52839) | ![Image](https://github.com/user-attachments/assets/d792bd2e-8e01-4004-9599-14e541a2fbfd) | ![Image](https://github.com/user-attachments/assets/d6f6a979-7125-4b29-8ba1-06c7ec13c7a4) |
+| <img src="https://github.com/user-attachments/assets/73daf29c-815f-4935-ac6c-acbe89fcb72d" width="150"> | <img src="https://github.com/user-attachments/assets/bc37fd2b-8cb3-483e-9703-87cec7865664" width="150"> | <img src="https://github.com/user-attachments/assets/009ca227-ce71-4300-87b8-b6c30b970caf" width="150"> | <img src="https://github.com/user-attachments/assets/650fc990-bdd2-4d72-b55e-8fb85ef52839" width="150"> | <img src="https://github.com/user-attachments/assets/d792bd2e-8e01-4004-9599-14e541a2fbfd" width="150"> | <img src="https://github.com/user-attachments/assets/d6f6a979-7125-4b29-8ba1-06c7ec13c7a4" width="150"> |
 |:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|
-| 김기훈([@kimgihun1234](https://github.com/kimgihun1234))&nbsp;&nbsp;&nbsp; | 차현우([@sangmin0806](https://github.com/sangmin0806))&nbsp;&nbsp;&nbsp; | 조성윤([@SeongyunGit](https://github.com/SeongyunGit))&nbsp;&nbsp;&nbsp; | 서현석([@minseonkkim](https://github.com/minseonkkim))&nbsp;&nbsp;&nbsp; | 김성수([@Dufrane-S](https://github.com/Dufrane-S))&nbsp;&nbsp;&nbsp; | 경이현([@KyungYiHyun](https://github.com/KyungYiHyun))&nbsp;&nbsp;&nbsp; |
-| 팀장 / Front End | Front End | Front End | Front End | Back End&nbsp;&nbsp; | Back End&nbsp;&nbsp; |
+| 김기훈([@kimgihun1234](https://github.com/kimgihun1234)) | 차현우([@sangmin0806](https://github.com/sangmin0806)) | 조성윤([@SeongyunGit](https://github.com/SeongyunGit)) | 서현석([@minseonkkim](https://github.com/minseonkkim)) | 김성수([@Dufrane-S](https://github.com/Dufrane-S)) | 경이현([@KyungYiHyun](https://github.com/KyungYiHyun)) |
+| 팀장 / Front End | Front End | Front End | Front End | Back End | Back End |
+
 
 
 ## 1. 개발환경
