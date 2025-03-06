@@ -1,4 +1,4 @@
-# :credit_card: 선결제 관리 어플
+# :credit_card: PrePay [선결제 관리 어플]
 
 2025.01.06 ~ 2025.02.21 / 6명
 
@@ -18,7 +18,7 @@
 
 ## 팀원 구성
 
-| ![Image](https://github.com/user-attachments/assets/73daf29c-815f-4935-ac6c-acbe89fcb72d) | ![Image](https://github.com/user-attachments/assets/bc37fd2b-8cb3-483e-9703-87cec7865664) | ![Image](https://github.com/user-attachments/assets/009ca227-ce71-4300-87b8-b6c30b970caf) | ![Image](https://github.com/user-attachments/assets/650fc990-bdd2-4d72-b55e-8fb85ef52839) | ![Image](https://github.com/user-attachments/assets/d792bd2e-8e01-4004-9599-14e541a2fbfd) | ![Image](https://github.com/user-attachments/assets/d6f6a979-7125-4b29-8ba1-06c7ec13c7a4) |
+| ![Image](https://github.com/user-attachments/assets/73daf29c-815f-4935-ac6c-acbe89fcb72d) | ![Image](https://github.com/user-attachments/assets/bc37fd2b-8cb3-483e-9703-87cec7865664) | ![Image](https://github.com/user-attachments/assets/009ca227-ce71-4300-87b8-b6c30b970caf) | ![Image](https://github.com/user-attachments/assets/650fc990-bdd2-4d72-b55e-8fb85ef52839) | <img src = "https://github.com/user-attachments/assets/74314c36-bac3-44cf-b6b8-9529c05cee61" width="100" height="100" > | ![Image](https://github.com/user-attachments/assets/d6f6a979-7125-4b29-8ba1-06c7ec13c7a4) |
 | ----------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------- |
 | 김기훈([@kimgihun1234](https://github.com/kimgihun1234))                                     | 차현우([@sangmin0806](https://github.com/sangmin0806))                                       | 조성윤([@SeongyunGit](https://github.com/SeongyunGit))                                       | 서현석([@minseonkkim](https://github.com/minseonkkim))                                       | 김성수([@Dufrane-S](https://github.com/Dufrane-S))                                           | 경이현([@KyungYiHyun](https://github.com/KyungYiHyun))                                       |
 | 팀장 / Front End                                                                            | Front End                                                                                 | Front End                                                                                 | Front End                                                                                 | Back End                                                                                  | Back End                                                                                  |
@@ -199,6 +199,7 @@ C:.
 #### [결제 내역 조회]
 
 <img src = "https://github.com/user-attachments/assets/2dc4a7c2-3b24-48d4-9f38-9c56b286cfe9" width="400" height="711" >
+
 ## 5. 시스템 아키텍쳐
 
 ![Image](https://github.com/user-attachments/assets/23ae6ef7-89a1-44f2-8abe-28af51c9fe89)
