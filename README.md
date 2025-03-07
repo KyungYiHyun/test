@@ -2,7 +2,7 @@
 
 2025.01.06 ~ 2025.02.21 / 6명
 
-메인사진 넣어야 하는데 피피티가 없어요ㅠ
+![Image](https://github.com/user-attachments/assets/f977abd4-3632-4829-b2a2-8e20c680c4c4)
 
 ## 프로젝트 소개
 
@@ -19,11 +19,9 @@
 ## 팀원 구성
 
 | <img src="https://github.com/user-attachments/assets/73daf29c-815f-4935-ac6c-acbe89fcb72d" width="150"> | <img src="https://github.com/user-attachments/assets/bc37fd2b-8cb3-483e-9703-87cec7865664" width="150"> | <img src="https://github.com/user-attachments/assets/009ca227-ce71-4300-87b8-b6c30b970caf" width="150"> | <img src="https://github.com/user-attachments/assets/650fc990-bdd2-4d72-b55e-8fb85ef52839" width="150"> | <img src="https://github.com/user-attachments/assets/d792bd2e-8e01-4004-9599-14e541a2fbfd" width="150"> | <img src="https://github.com/user-attachments/assets/d6f6a979-7125-4b29-8ba1-06c7ec13c7a4" width="150"> |
-|:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|
-| 김기훈([@kimgihun1234](https://github.com/kimgihun1234)) | 차현우([@sangmin0806](https://github.com/sangmin0806)) | 조성윤([@SeongyunGit](https://github.com/SeongyunGit)) | 서현석([@minseonkkim](https://github.com/minseonkkim)) | 김성수([@Dufrane-S](https://github.com/Dufrane-S)) | 경이현([@KyungYiHyun](https://github.com/KyungYiHyun)) |
-| 팀장 / Front-End | Front-End | Front-End | Front-End | Back-End | Back-End |
-
-
+|:-------------------------------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------------------:|
+| 김기훈([@kimgihun1234](https://github.com/kimgihun1234))                                                   | 차현우([@SWisdom1108](https://github.com/SWisdom1108))                                                     | 조성윤([@SeongyunGit](https://github.com/SeongyunGit))                                                     | 서현석([@jacob4824](https://github.com/jacob4824))                                                         | 김성수([@Dufrane-S](https://github.com/Dufrane-S))                                                         | 경이현([@KyungYiHyun](https://github.com/KyungYiHyun))                                                     |
+| 팀장 / Front-End                                                                                          | Front-End                                                                                               | Front-End                                                                                               | Front-End                                                                                               | Back-End                                                                                                | Back-End                                                                                                |
 
 ## 1. 개발환경
 
@@ -178,7 +176,7 @@ C:.
 
 ## 3. 역할 분담
 
-역할 분담 사진 피피티가 없어요ㅠ
+![Image](https://github.com/user-attachments/assets/83ea3d0d-2e77-4f1f-b01c-d1c48ad31301)
 
 ## 4. 핵심 기능 소개
 
@@ -206,4 +204,4 @@ C:.
 
 ![Image](https://github.com/user-attachments/assets/23ae6ef7-89a1-44f2-8abe-28af51c9fe89)
 
-## 6. 프로젝트 후기
+# 
