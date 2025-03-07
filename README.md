@@ -264,7 +264,7 @@ C:.
 
 ## 5. ERD
 
-<img src = "https://github.com/user-attachments/assets/eccfa011-e3f7-4232-878c-06fb4cbc9cf0" alt="ERD 이미지">
+<img src = "https://github.com/user-attachments/assets/eccfa011-e3f7-4232-878c-06fb4cbc9cf0" alt="ERD 이미지" height="">
 
 ## 6. 시스템 아키텍쳐
 
