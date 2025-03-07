@@ -200,8 +200,20 @@ C:.
 
 <img src = "https://github.com/user-attachments/assets/2dc4a7c2-3b24-48d4-9f38-9c56b286cfe9" width="400" height="711" >
 
-## 5. 시스템 아키텍쳐
+## 5. ERD
+
+
+
+
+
+## 6. 시스템 아키텍쳐
 
 ![Image](https://github.com/user-attachments/assets/23ae6ef7-89a1-44f2-8abe-28af51c9fe89)
 
-# 
+
+
+## 7 . 차별점
+
+
+
+## 8. 프로젝트 후기
