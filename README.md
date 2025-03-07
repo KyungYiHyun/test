@@ -18,10 +18,72 @@
 
 ## 팀원 구성
 
-| <img src="https://github.com/user-attachments/assets/73daf29c-815f-4935-ac6c-acbe89fcb72d" width="150"> | <img src="https://github.com/user-attachments/assets/bc37fd2b-8cb3-483e-9703-87cec7865664" width="150"> | <img src="https://github.com/user-attachments/assets/009ca227-ce71-4300-87b8-b6c30b970caf" width="150"> | <img src="https://github.com/user-attachments/assets/650fc990-bdd2-4d72-b55e-8fb85ef52839" width="150"> | <img src="https://github.com/user-attachments/assets/d792bd2e-8e01-4004-9599-14e541a2fbfd" width="150"> | <img src="https://github.com/user-attachments/assets/d6f6a979-7125-4b29-8ba1-06c7ec13c7a4" width="150"> |
-|:-------------------------------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------------------:|
-| 김기훈([@kimgihun1234](https://github.com/kimgihun1234))                                                   | 차현우([@SWisdom1108](https://github.com/SWisdom1108))                                                     | 조성윤([@SeongyunGit](https://github.com/SeongyunGit))                                                     | 서현석([@jacob4824](https://github.com/jacob4824))                                                         | 김성수([@Dufrane-S](https://github.com/Dufrane-S))                                                         | 경이현([@KyungYiHyun](https://github.com/KyungYiHyun))                                                     |
-| 팀장 / Front-End                                                                                          | Front-End                                                                                               | Front-End                                                                                               | Front-End                                                                                               | Back-End                                                                                                | Back-End                                                                                                |
+<table>
+  <tr>
+    <td align="center" width="150px">
+      <a href="https://github.com/kimgihun1234" target="_blank">
+        <img src="https://github.com/user-attachments/assets/73daf29c-815f-4935-ac6c-acbe89fcb72d" alt="김기훈 프로필" />
+      </a>
+    </td>
+    <td align="center" width="150px">
+      <a href="https://github.com/SWisdom1108" target="_blank">
+        <img src="https://github.com/user-attachments/assets/bc37fd2b-8cb3-483e-9703-87cec7865664" alt="차현우 프로필" />
+      </a>
+    </td>
+    <td align="center" width="150px">
+      <a href="https://github.com/SeongyunGit" target="_blank">
+        <img src="https://github.com/user-attachments/assets/009ca227-ce71-4300-87b8-b6c30b970caf" alt="조성윤 프로필" />
+      </a>
+    </td>
+    <td align="center" width="150px">
+      <a href="https://github.com/jacob4824" target="_blank">
+        <img src="https://github.com/user-attachments/assets/650fc990-bdd2-4d72-b55e-8fb85ef52839" alt="서현석 프로필" />
+      </a>
+    </td>
+    <td align="center" width="150px">
+      <a href="https://github.com/Dufrane-S" target="_blank">
+        <img src="https://github.com/user-attachments/assets/d792bd2e-8e01-4004-9599-14e541a2fbfd" alt="김성수 프로필" />
+      </a>
+    </td>
+    <td align="center" width="150px">
+      <a href="https://github.com/KyungYiHyun" target="_blank">
+        <img src="https://github.com/user-attachments/assets/d6f6a979-7125-4b29-8ba1-06c7ec13c7a4" alt="경이현 프로필" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/kimgihun1234" target="_blank">
+        김기훈<br />(Front-end & 팀장)
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/SWisdom1108" target="_blank">
+        차현우<br />(Front-end)
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/SeongyunGit" target="_blank">
+        조성윤<br />(Front-end)
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/jacob4824" target="_blank">
+        서현석<br />(Front-end)
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Dufrane-S" target="_blank">
+        김성수<br />(Back-end)
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/KyungYiHyun">
+        경이현<br />(Back-end)
+      </a>
+    </td>
+  </tr>
+</table>
 
 ## 1. 개발환경
 
@@ -202,18 +264,12 @@ C:.
 
 ## 5. ERD
 
-
-
-
+<img src = "https://github.com/user-attachments/assets/eccfa011-e3f7-4232-878c-06fb4cbc9cf0") alt="ERD 이미지">
 
 ## 6. 시스템 아키텍쳐
 
 ![Image](https://github.com/user-attachments/assets/23ae6ef7-89a1-44f2-8abe-28af51c9fe89)
 
-
-
 ## 7 . 차별점
-
-
 
 ## 8. 프로젝트 후기
